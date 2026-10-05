@@ -393,15 +393,15 @@ button {
 .media-panel {
   border-radius: 28px;
   overflow: hidden;
-  padding: 18px;
+  padding: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .logo-panel-image {
-  width: min(100%, 220px);
-  max-height: 220px;
+  width: min(100%, 180px);
+  max-height: 180px;
   object-fit: contain;
   border-radius: 18px;
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));
