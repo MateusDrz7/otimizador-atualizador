@@ -1,187 +1,246 @@
-# DRZ7 Optimizer Atualizador
+# 🚀 DRZ7 Optimizer Atualizador
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DRZ7-Optimizer%20Atualizador-0A1120?style=for-the-badge&logo=github&labelColor=08182D" alt="DRZ7 Optimizer Atualizador" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/DRZ7-OPTIMIZER%20ATUALIZADOR-0A1120?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=08182D" alt="DRZ7 Optimizer Atualizador" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases/latest">
-    <img src="https://img.shields.io/github/v/release/MateusDrz7/otimizador-atualizador?style=for-the-badge" alt="release" />
-  </a>
-  <a href="https://github.com/MateusDrz7/otimizador-atualizador/issues">
-    <img src="https://img.shields.io/github/issues/MateusDrz7/otimizador-atualizador?style=for-the-badge" alt="issues" />
-  </a>
-  <a href="https://github.com/MateusDrz7/otimizador-atualizador/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MateusDrz7/otimizador-atualizador?style=for-the-badge" alt="license" />
-  </a>
-</p>
+<div align="center">
+  
+**Hub oficial de versões, atualização e manutenção do DRZ7 Optimizer** 
 
-> Hub oficial de versões, atualização e manutenção do DRZ7 Optimizer.
+[Versão](#versão) • [Features](#features) • [Download](#-download) • [Screenshots](#galeria-de-screenshots) • [Documentação](#documentação) • [Licença](#licença)
+
+</div>
 
 ---
+
+## ⬇️ Download
 
 <p align="center">
   <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases/latest">
-    <img src="https://img.shields.io/badge/📥-BAIXAR%20ÚLTIMA%20VERSÃO-00D9FF?style=for-the-badge&logo=github&labelColor=0A2540" alt="Baixar última versão" />
+    <button type="button">Baixar última versão</button>
   </a>
 </p>
 
 ---
 
-## Visão geral
+## 📋 Visão Geral
 
-O DRZ7 Optimizer Atualizador foi criado para funcionar como centro de distribuição e manutenção do projeto, reunindo:
+O **DRZ7 Optimizer Atualizador** é o centro oficial de distribuição do projeto, centralizado em um só lugar:
 
-- versões oficiais em releases
-- controle de atualização
-- documentação centralizada
-- visual profissional e moderno
-- base para evoluções futuras do produto
-
-Ele foi pensado para dar ao projeto uma aparência premium e organizada no GitHub, além de facilitar o uso e a atualização do software.
+- 📦 **Versões oficiais** em releases organizadas
+- 🔄 **Controle de atualização** simples e seguro
+- 📖 **Documentação completa** para instalação e uso
+- 🎨 **Visual profissional** alinhado ao produto
+- 🚀 **Base sólida** para crescimento contínuo
 
 ---
 
-## O que ele oferece
+## ✨ Features
 
-- ✅ Controle de versões por release
-- ✅ Download e atualização centralizados
-- ✅ Visual moderno inspirado na interface do app
-- ✅ Changelog organizado
-- ✅ Estrutura pronta para documentação e suporte
-- ✅ Base profissional para crescimento do software
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>⚡ Rápido</strong><br/>
+      Download e<br/>atualização instantânea
+    </td>
+    <td align="center">
+      <strong>🔒 Seguro</strong><br/>
+      Releases verificadas<br/>e confiáveis
+    </td>
+    <td align="center">
+      <strong>📱 Moderno</strong><br/>
+      Interface limpa e<br/>profissional
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>📊 Organizado</strong><br/>
+      Changelog completo<br/>e estrutura clara
+    </td>
+    <td align="center">
+      <strong>🌐 Acessível</strong><br/>
+      Documentação em<br/>português
+    </td>
+    <td align="center">
+      <strong>🎯 Intuitivo</strong><br/>
+      Fluxo simples de<br/>uso
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Galeria de Screenshots
+## 🖼️ Galeria de Screenshots
 
-### Dashboard Principal
-![Dashboard do DRZ7](assets/dashboard.png)
-
-### Análise Inteligente
-![Análise Inteligente do Sistema](assets/analise.png)
-
-### Boost e Otimização
-![Boost do Sistema](assets/boost.png)
-
-### Assistente DRZ7 AI
-![Assistente DRZ7 AI](assets/ai.png)
+<div align="center">
+  <h3>Dashboard Principal</h3>
+  <img src="assets/dashboard.png" alt="Dashboard do DRZ7" width="90%" />
+  
+  ---
+  
+  <h3>Análise Inteligente</h3>
+  <img src="assets/analise.png" alt="Análise Inteligente do Sistema" width="90%" />
+  
+  ---
+  
+  <h3>Boost e Otimização</h3>
+  <img src="assets/boost.png" alt="Boost do Sistema" width="90%" />
+  
+  ---
+  
+  <h3>Assistente DRZ7 AI</h3>
+  <img src="assets/ai.png" alt="Assistente DRZ7 AI" width="90%" />
+</div>
 
 ---
 
-## Interface inspirada no produto
+## 🎨 Interface Inspirada no Produto
 
-O visual do projeto foi pensado para refletir a estética da interface do otimizador, com identidade forte em azul escuro, ciano e verde, além de blocos de métricas e painéis modernos.
+A identidade visual do projeto reflete a estética moderna do DRZ7 Optimizer, com destaque para:
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  DRZ7                  SECURE BOOST                       │
-├──────────────────────────────────────────────────────────────┤
-│ Dashboard  |  Análise  |  Boost  |  DRZ7 AI                │
-│                                                              │
-│ [ RAM 39% ]   [ CPU 39% ]   [ DISCO 82% ]                  │
-│                                                              │
-│ [ Análise Inteligente ]   [ Otimização ]                   │
-│ [ Limpeza ]   [ Segurança ]   [ Atualização ]              │
-└──────────────────────────────────────────────────────────────┘
+- **Paleta de cores**: Azul escuro, ciano e verde
+- **Estilo**: Blocos de métricas e painéis responsivos
+- **Experiência**: Interface limpa e intuitiva
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🔷 DRZ7              SECURE BOOST              v1.1      │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  Dashboard │ Análise │ Boost │ DRZ7 AI                    │
+│                                                            │
+│  ┌─────────────────┬─────────────────┬─────────────────┐  │
+│  │ RAM 39%         │ CPU 39%         │ DISCO 82%       │  │
+│  │ 6.2 GB / 9.7 GB │ Uso atual       │ 85.4 GB / 476 GB│  │
+│  └─────────────────┴─────────────────┴─────────────────┘  │
+│                                                            │
+│  [ 🚀 Otimizar ] [ ⚙️ Boost ] [ 🌐 Limpar DNS ]          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Releases e versões
+## 📥 Como Usar
 
-A versão mais recente fica disponível em:
+### 1️⃣ **Baixar**
+Clique no botão acima para acessar a última versão disponível.
+
+### 2️⃣ **Instalar**
+Extraia ou execute o instalador conforme o arquivo baixado.
+
+### 3️⃣ **Usar**
+Abra o aplicativo e aproveite todas as funcionalidades.
+
+### 4️⃣ **Atualizar**
+Consulte este repositório regularmente para novas versões.
+
+---
+
+## 📁 Estrutura do Repositório
+
+```
+otimizador-atualizador/
+│
+├── 📄 README.md                 # Este arquivo
+├── 📝 CHANGELOG.md              # Histórico de versões
+├── 📜 LICENSE                   # Licença MIT
+├── ⚙️  version.json             # Versão atual
+├── 🤝 CONTRIBUTING.md           # Guia de contribuição
+│
+├── 📚 docs/                     # Documentação
+│   ├── README.md               # Índice da documentação
+│   ├── instalacao.md           # Guia de instalação
+│   └── uso.md                  # Guia de uso
+│
+├── 🖼️  assets/                  # Imagens do projeto
+│   ├── README.md               # Instruções dos assets
+│   ├── dashboard.png           # Tela do dashboard
+│   ├── analise.png             # Tela de análise
+│   ├── boost.png               # Tela de boost
+│   └── ai.png                  # Tela da IA
+│
+└── releases/                    # Pacotes de release
+```
+
+---
+
+## 📊 Versão
+
+A versão atual do projeto está registrada em [version.json](version.json)
 
 - [GitHub Releases](https://github.com/MateusDrz7/otimizador-atualizador/releases)
-- [Última release](https://github.com/MateusDrz7/otimizador-atualizador/releases/latest)
-
-A referência da versão atual está em:
-
-- [version.json](version.json)
+- [Última Release](https://github.com/MateusDrz7/otimizador-atualizador/releases/latest)
 
 ---
 
-## Como usar
+## 📖 Documentação
 
-### 1. Acessar as releases
-
-Entre na aba de releases do repositório e baixe a versão oficial mais recente.
-
-### 2. Instalar ou atualizar
-
-Após o download, siga o processo da release para instalar ou atualizar o otimizador no ambiente desejado.
-
-### 3. Consultar documentação
-
-A documentação do projeto está em:
-
-- [docs/README.md](docs/README.md)
-- [docs/instalacao.md](docs/instalacao.md)
-- [docs/uso.md](docs/uso.md)
+| Documento | Descrição |
+|-----------|-----------|
+| [📚 Principal](docs/README.md) | Índice e visão geral da documentação |
+| [💾 Instalação](docs/instalacao.md) | Passo a passo para instalar |
+| [🎯 Uso](docs/uso.md) | Como usar e atualizar o software |
+| [📋 Changelog](CHANGELOG.md) | Histórico completo de versões |
+| [🤝 Contribuir](CONTRIBUTING.md) | Como contribuir ao projeto |
 
 ---
 
-## Estrutura do repositório
+## 🔄 Changelog
 
-```text
-otimizador-atualizador/
-├── README.md
-├── CHANGELOG.md
-├── LICENSE
-├── version.json
-├── CONTRIBUTING.md
-├── docs/
-│   ├── README.md
-│   ├── instalacao.md
-│   └── uso.md
-├── assets/
-│   ├── README.md
-│   ├── dashboard.png
-│   ├── analise.png
-│   ├── boost.png
-│   └── ai.png
-├── .gitignore
-└── releases/
-    └── arquivos e pacotes publicados
-```
+### [1.1.0] - 2026-10-05
+
+**✨ Adicionado**
+- Documentação principal do projeto
+- README profissional e visualmente modernizado
+- Guia de instalação completo
+- Guia de uso e atualização
+- Organização pronta para releases
+
+**🔧 Ajustado**
+- Apresentação visual alinhada ao estilo DRZ7 Optimizer
+- Estrutura de navegação melhorada
+- Branding mais profissional
 
 ---
 
-## Documentação
+## 🎯 Status do Projeto
 
-- [Documentação principal](docs/README.md)
-- [Instalação](docs/instalacao.md)
-- [Uso e atualização](docs/uso.md)
-- [Changelog](CHANGELOG.md)
-- [Guia de contribuição](CONTRIBUTING.md)
-
----
-
-## Status do projeto
-
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="status" />
   <img src="https://img.shields.io/badge/Projeto-DRZ7%20Optimizer-0EA5E9?style=for-the-badge" alt="projeto" />
   <img src="https://img.shields.io/badge/Visual-Modern-blue?style=for-the-badge" alt="visual" />
-</p>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="license" />
+</div>
 
 ---
 
-## Autor
+## 👨‍💻 Autor
 
-Mateus DRZ7
+<div align="center">
+  
+**Mateus DRZ7**
 
-- GitHub: [@MateusDrz7](https://github.com/MateusDrz7)
-- Repositório: [otimizador-atualizador](https://github.com/MateusDrz7/otimizador-atualizador)
+🔗 [GitHub](https://github.com/MateusDrz7) • 📦 [Repositório](https://github.com/MateusDrz7/otimizador-atualizador)
 
----
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Consulte o arquivo [LICENSE](LICENSE) para detalhes completos.
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CC9F0&center=true&vCenter=true&width=750&lines=DRZ7+Optimizer+Atualizador;Atualiza%C3%A7%C3%A3o+e+manuten%C3%A7%C3%A3o+do+projeto" alt="typing banner" />
-</p>
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License** - você é livre para usar, modificar e distribuir.
+
+Consulte o arquivo [LICENSE](LICENSE) para detalhes completos.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DRZ7+Optimizer+Atualizador;Vers%C3%A3o+em+constante+evolu%C3%A7%C3%A3o;Desenvolvido+com+❤️" alt="typing banner" />
+  
+  **⭐ Se gostou, deixe uma estrela! ⭐**
+  
+</div>
