@@ -45,6 +45,22 @@ Ele foi pensado para dar ao projeto uma aparência premium e organizada no GitHu
 
 ---
 
+## Galeria de Screenshots
+
+### Dashboard Principal
+![Dashboard do DRZ7](assets/dashboard.png)
+
+### Análise Inteligente
+![Análise Inteligente do Sistema](assets/analise.png)
+
+### Boost e Otimização
+![Boost do Sistema](assets/boost.png)
+
+### Assistente DRZ7 AI
+![Assistente DRZ7 AI](assets/ai.png)
+
+---
+
 ## Interface inspirada no produto
 
 O visual do projeto foi pensado para refletir a estética da interface do otimizador, com identidade forte em azul escuro, ciano e verde, além de blocos de métricas e painéis modernos.
@@ -110,6 +126,12 @@ otimizador-atualizador/
 │   ├── README.md
 │   ├── instalacao.md
 │   └── uso.md
+├── assets/
+│   ├── README.md
+│   ├── dashboard.png
+│   ├── analise.png
+│   ├── boost.png
+│   └── ai.png
 ├── .gitignore
 └── releases/
     └── arquivos e pacotes publicados
