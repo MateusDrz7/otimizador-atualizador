@@ -20,11 +20,9 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases/latest/download">
-    <img src="https://img.shields.io/badge/⬇️%20BAIXAR%20AGORA-00D9FF?style=for-the-badge&labelColor=0A2540&fontColor=ffffff" alt="Download Latest Release" />
-  </a>
-</p>
+## 🚀 Comece Agora
+
+[📥 **BAIXAR ÚLTIMA VERSÃO**](https://github.com/MateusDrz7/otimizador-atualizador/releases/latest)
 
 ---
 
