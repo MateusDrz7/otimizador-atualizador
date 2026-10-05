@@ -82,24 +82,26 @@ button {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  flex-shrink: 0;
 }
 
 .brand-logo,
 .footer-logo {
-  width: 42px;
-  height: 42px;
+  width: 28px;
+  height: 28px;
   object-fit: contain;
-  border-radius: 12px;
+  border-radius: 10px;
   background: rgba(255, 255, 255, 0.02);
-  padding: 5px;
+  padding: 3px;
+  flex-shrink: 0;
 }
 
 .brand-text {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .main-nav {
@@ -396,7 +398,7 @@ button {
 
 .logo-panel-image {
   width: 100%;
-  max-height: 500px;
+  max-height: 420px;
   object-fit: contain;
   border-radius: 18px;
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.00));
