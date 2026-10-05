@@ -20,6 +20,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases/latest/download">
+    <img src="https://img.shields.io/badge/⬇️%20BAIXAR%20AGORA-00D9FF?style=for-the-badge&labelColor=0A2540&fontColor=ffffff" alt="Download Latest Release" />
+  </a>
+</p>
+
+---
+
 ## Visão geral
 
 O DRZ7 Optimizer Atualizador foi criado para funcionar como centro de distribuição e manutenção do projeto, reunindo:
