@@ -1,0 +1,21 @@
+# Git ignore
+
+# Dependências
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Ambiente
+.env
+.env.*
+
+# Builds
+build/
+dist/
+out/
+
+# Sistema
+.DS_Store
+Thumbs.db
