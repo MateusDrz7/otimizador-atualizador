@@ -8,17 +8,23 @@
   
 **Hub oficial de versões, atualização e manutenção do DRZ7 Optimizer** 
 
-[Versão](#versão) • [Features](#features) • [Download](#-download) • [Screenshots](#galeria-de-screenshots) • [Documentação](#documentação) • [Licença](#licença)
+[Versão](#versão) • [Features](#features) • [Download](#-download-premium) • [Screenshots](#galeria-de-screenshots) • [Documentação](#documentação) • [Licença](#licença)
 
 </div>
 
 ---
 
-## ⬇️ Download
+## 📥 Download Premium
 
 <p align="center">
   <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases/latest">
-    <button type="button">Baixar última versão</button>
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20BAIXAR%20%C3%9ALTIMA%20VERS%C3%83O-00D9FF?style=for-the-badge&labelColor=0A2540&logo=github&logoColor=white&color=00D9FF" alt="Baixar última versão" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MateusDrz7/otimizador-atualizador/releases">
+    <img src="https://img.shields.io/badge/ver%20todas%20as%20releases-FFFFFF?style=flat-square&labelColor=1f6feb&color=1f6feb" alt="Ver releases" />
   </a>
 </p>
 
@@ -74,22 +80,22 @@ O **DRZ7 Optimizer Atualizador** é o centro oficial de distribuição do projet
 ## 🖼️ Galeria de Screenshots
 
 <div align="center">
-  <h3>Dashboard Principal</h3>
+  <h3>🎮 Dashboard Principal</h3>
   <img src="assets/dashboard.png" alt="Dashboard do DRZ7" width="90%" />
   
   ---
   
-  <h3>Análise Inteligente</h3>
+  <h3>📊 Análise Inteligente</h3>
   <img src="assets/analise.png" alt="Análise Inteligente do Sistema" width="90%" />
   
   ---
   
-  <h3>Boost e Otimização</h3>
+  <h3>⚡ Boost e Otimização</h3>
   <img src="assets/boost.png" alt="Boost do Sistema" width="90%" />
   
   ---
   
-  <h3>Assistente DRZ7 AI</h3>
+  <h3>🤖 Assistente DRZ7 AI</h3>
   <img src="assets/ai.png" alt="Assistente DRZ7 AI" width="90%" />
 </div>
 
@@ -172,8 +178,8 @@ otimizador-atualizador/
 
 A versão atual do projeto está registrada em [version.json](version.json)
 
-- [GitHub Releases](https://github.com/MateusDrz7/otimizador-atualizador/releases)
-- [Última Release](https://github.com/MateusDrz7/otimizador-atualizador/releases/latest)
+- [🔗 GitHub Releases](https://github.com/MateusDrz7/otimizador-atualizador/releases)
+- [📌 Última Release](https://github.com/MateusDrz7/otimizador-atualizador/releases/latest)
 
 ---
 
@@ -239,8 +245,9 @@ Consulte o arquivo [LICENSE](LICENSE) para detalhes completos.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DRZ7+Optimizer+Atualizador;Vers%C3%A3o+em+constante+evolu%C3%A7%C3%A3o;Desenvolvido+com+❤️" alt="typing banner" />
-  
-  **⭐ Se gostou, deixe uma estrela! ⭐**
-  
+
+![banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=DRZ7+Optimizer+Atualizador;Vers%C3%A3o+em+constante+evolu%C3%A7%C3%A3o;Desenvolvido+com+%E2%9D%A4%EF%B8%8F)
+
+**⭐ Se gostou, deixe uma estrela! ⭐**
+
 </div>
